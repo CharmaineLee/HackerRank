@@ -30,7 +30,5 @@ int main(){
         int sum = n * i;
         cout << n << " x " << i << " = " << sum << endl;        
     }
-    
     return 0;
-    
 }
