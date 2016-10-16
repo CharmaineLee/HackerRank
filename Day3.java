@@ -23,7 +23,6 @@ public class Solution {
             if (n > 20) {
                 ans = "Not Weird";
             }
-            // Complete the code
         }
         System.out.println(ans);
     }
